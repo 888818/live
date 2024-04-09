@@ -39,8 +39,6 @@ CCTV15-音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV16-奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16-奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV17-农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV-电视指南,http://:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-中国天气,http://:6060/cms001/ch00000090990000001102/index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
